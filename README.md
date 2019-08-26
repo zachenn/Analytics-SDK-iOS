@@ -1,1 +1,1 @@
-# MobileSDK
+# Analytics SDK - iOS
